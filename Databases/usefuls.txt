@@ -1,0 +1,8 @@
+.split-- list to string
+
+.isalnum - check if string is alpha numeric
+
+isalpha()
+isdigit()
+islower()
+isupper()
